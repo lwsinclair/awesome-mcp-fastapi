@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mr-green1337-awesome-mcp-fastapi-badge.png)](https://mseep.ai/app/mr-green1337-awesome-mcp-fastapi)
+
 [![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fmr-green1337.github.io%2Fawesome-mcp-fastapi%2F)](https://mr-green1337.github.io/awesome-mcp-fastapi/)
 
 # Awesome MCP FastAPI
